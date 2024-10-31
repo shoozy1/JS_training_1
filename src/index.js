@@ -126,3 +126,4 @@ const ads = {a: {}};
 const ads2 = JSON.parse(JSON.stringify(obj));
 obj2.a.test = 42;
 console.log(obj); // {a: {}}
+console.log("Hello Mec");
